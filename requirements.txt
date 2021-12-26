@@ -1,0 +1,6 @@
+SQLAlchemy~=1.4.28
+fastapi~=0.70.1
+databases[sqlite]~=0.5.3
+pydantic~=1.8.2
+strawberry-graphql[debug-server]
+websockets
